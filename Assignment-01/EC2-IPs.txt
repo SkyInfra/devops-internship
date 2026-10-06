@@ -1,0 +1,13 @@
+Assignment 1 - EC2 IPs
+
+Staging EC2
+Public IP: 43.204.37.77
+
+Production EC2
+Public IP: 13.201.57.74
+
+Staging Health Check
+http://43.204.37.77:3000/health
+
+Production Health Check
+http://13.201.57.74:3000/health
